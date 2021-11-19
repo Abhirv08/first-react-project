@@ -16,8 +16,7 @@ code {
 .business-card {
   width: 317px;
   height: 800px;
-  margin: auto;
-  
+  margin: 20px auto;  
   border-radius: 20px;
   background-color: rgb(43, 43, 83);
 }
@@ -45,8 +44,11 @@ code {
 
 .nameanddesignation > h1,
 .nameanddesignation > h5 {
-  margin: 0;
-  
+  margin: 0;  
+}
+
+.nameanddesignation > h1{
+  color:white;
 }
 
 .nameanddesignation > h5{
@@ -55,6 +57,7 @@ code {
 
 .nameanddesignation > h6 {
   margin-top: 13px;
+  color: white;
 }
 
 .social {
@@ -78,7 +81,7 @@ code {
 }
 
 .mailbutton{
-  background-color: green; 
+  background-color: white; 
   color: black;
 }
 
@@ -95,6 +98,7 @@ code {
   margin: 0 37px 0 37px;
   height: 201px;
   padding: 20px 0;
+  color: white;
 }
 
 .Intrests > h2,

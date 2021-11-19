@@ -7,7 +7,7 @@ export default function Main() {
   return (
     <div className="main-body">
       <div className="nameanddesignation">
-        <h1>Laura Smith </h1>
+        <h1>Laura Smith</h1>
         <h5>Frontend Developer</h5>
         <h6>laurasmith.website</h6>
       </div>
